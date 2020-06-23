@@ -4,7 +4,7 @@ Python application for object detection and character recognition using kivy for
 
 ----------------------------------------
 
-# Install the following modules before running the application .
+# Install the following modules before running the application 
 
 Upgrade PIP :
 
